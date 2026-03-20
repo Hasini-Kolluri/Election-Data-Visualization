@@ -143,16 +143,16 @@ This dashboard helps answer questions such as:
 You can add screenshots of your dashboard pages below. Upload the images to this repository and replace the file names with your actual image names.
 
 ### State Analysis
-![Overview Analysis](images/Screenshot 2026-03-20 205641.png)
+![Overview Analysis](images/State.png)
 
 ### Constituency Analysis
-![Constituency Analysis](images/Screenshot 2026-03-20 205700.png)
+![Constituency Analysis](images/constituency.png)
 
 ### Party Strategy and Performance Analysis
-![Party Strategy and Performance Analysis](Screenshot 2026-03-20 205729.png)
+![Party Strategy and Performance Analysis](images/Party.png)
 
 ### General Election Results Dashboard
-![General Election Results Dashboard](Screenshot 2026-03-20 205749.png)
+![General Election Results Dashboard](images/Overview.png)
 
 ---
 
